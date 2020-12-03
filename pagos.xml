@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pagos>
+  <pago id="21" procesado="true" firmado="true" idEmpleado="d015">
+    <descripcion>Quincena #21: Noviembre </descripcion>
+    <fecha>15 Noviembre 2020</fecha>
+    <montoBase>20000.95</montoBase>
+    <montoBono>3500.05</montoBono>
+  </pago>
+  <pago id="22" procesado="true" firmado="false" idEmpleado="a029">
+    <descripcion>Quincena #22: Noviembre </descripcion>
+    <fecha>30 Noviembre 2020</fecha>
+    <montoBase>20000.95</montoBase>
+    <montoBono>5500.05</montoBono>
+  </pago>
+</pagos>
